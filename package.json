@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.benmu-health.org:fe/scaffold.git"
+    "url": "git@github.com:yangguangqishimi/aros-cli.git"
   },
   "keywords": [
     "weex",
