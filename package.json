@@ -1,6 +1,6 @@
 {
   "name": "aros-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI for scaffolding weex projects, we provide aros-template to quickly build small and medium sized app.",
   "bin": {
     "aros": "./bin/aros.js"
